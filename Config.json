@@ -1,0 +1,5 @@
+{
+  "TOKEN" : "Your Bot TOKEN",
+  "Command" : "!wiki",
+  "Wiki_URL" : "http://ja.wikipedia.org/w/api.php"
+}
